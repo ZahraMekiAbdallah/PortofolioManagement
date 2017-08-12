@@ -1,2 +1,4 @@
 # Portfolio Management Repository
-![logo](https://image.ibb.co/cD0BsF/icon.png "iSky")
+<p align="center">
+    <img src="https://image.ibb.co/cD0BsF/icon.png">
+</p>
